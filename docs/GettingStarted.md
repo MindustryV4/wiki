@@ -31,7 +31,7 @@ The latest released builds are available on Apple TestFlight.
 
 ## For Contributors
 
-If you would like to contribute to the game's source code, the best way to go is to compile the game yourself or use the builds provided [here](https://jenkins.hellomouse.net/job/mindustry/). To compile it yourself:
+If you would like to contribute to the game's source code, the best way to go is to compile the game yourself or use the builds provided [here](https://github.com/Anuken/MindustryBuilds/releases/). To compile it yourself:
 
 1. If you haven't already, install at least JRE and JDK 8. 
 2. Open a terminal in the root directory, then run these commands: 
@@ -50,7 +50,7 @@ Please keep in mind that doing this does not make you automatically cool. **Use 
 A dedicated Linux or Windows machine is **highly** recommended for this.
 
 1. If you haven't already, install at least JRE and JDK 8.
-2. Download the desired server release from [itch.io](itch.io), or compile one yourself. 
+2. Download the desired server release from [itch.io](https://anuke.itch.io/mindustry), or compile one yourself. 
 3. Open a terminal or TTY session then change `cd` to the directory the JAR is placed in.
 4. Run `java -jar server-release.jar`. The commands are explained in the `help` command.
 
