@@ -1,0 +1,23 @@
+.wy-nav-content {
+  max-width: 100% !important;
+}
+
+.wy-side-nav-search {
+  background-color: #d4816b;
+}
+
+.wy-side-nav-search input[type=text] {
+  border: none !important;
+}
+
+img#spr {
+  width: 1.2em;
+  margin-left: 5px;
+  margin-top: -3px;
+}
+
+img#ind {
+  width: 1.1em;
+  margin-top: -3px;
+  position: inline;
+}
