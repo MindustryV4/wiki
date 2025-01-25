@@ -8,30 +8,20 @@ This is your typical, run-of-the-mill setup process.
 
 ### Desktop
 
-1. Visit the game's [itch.io page](https://anuke.itch.io/mindustry), then download a copy of the game from there. **The latest build is `alpha-63`, which we refer to as Build 63.**
-2. Once the `.zip` file is downloaded, unzip it. Usually that is just done by opening it like normal. When it's done, navigate to the folder it extracted into.
-3. 
-    1. **Windows**: simply open `desktop-release.exe`.
-    2. **MacOS**: run `Mindustry.app.`
-    3. **Linux**: run `Mindustry`. 
-
-If you have JRE already installed (which is recommended), you can also run `desktop-release.jar` on Windows and Linux.
+1. Visit the game's [releases page](https://github.com/Acemany/MindustryV4/releases), then download a copy of the game from there. **The latest build is `alpha-63`, which we refer to as Build 63.**
+2. If you have JRE already installed (which is recommended), you can also run `java -jar desktop-release.jar` on Windows and Linux.
 
 ### Android
 
-This particular section covers how to install Mindustry's **latest builds** on Android. You might be here because you don't know what sort of Mindustry everyone's talking about on the Discord, or heard of `build 63`. If so, please read on.
-
-1. Open Google Play Store and visit Mindustry's entry.
-2. Scroll down a bit and notice the "Become a beta tester" section. Press "Join now" and confirm. Fully signing up will take a while, so be patient.
-3. The green button will then say "Update". Update and enjoy!
+Download .apk file from [releases page](https://github.com/Acemany/MindustryV4/releases) and install it.
 
 ### iOS
 
-The latest released builds are available on Apple TestFlight.
+No.
 
 ## For Contributors
 
-If you would like to contribute to the game's source code, the best way to go is to compile the game yourself or use the builds provided [here](https://github.com/Anuken/MindustryBuilds/releases/). To compile it yourself:
+If you would like to contribute to the game's source code, the best way to go is to compile the game yourself or use the builds provided [here](https://github.com/Acemany/MindustryV4Builds/releases/). To compile it yourself:
 
 1. If you haven't already, install at least JRE and JDK 8. 
 2. Open a terminal in the root directory, then run these commands: 
@@ -50,7 +40,7 @@ Please keep in mind that doing this does not make you automatically cool. **Use 
 A dedicated Linux or Windows machine is **highly** recommended for this.
 
 1. If you haven't already, install at least JRE and JDK 8.
-2. Download the desired server release from [itch.io](https://anuke.itch.io/mindustry), or compile one yourself. 
+2. Download the desired server release from [BE builds](https://github.com/Acemany/MindustryV4Builds/releases/), or compile one yourself. 
 3. Open a terminal or TTY session then change `cd` to the directory the JAR is placed in.
 4. Run `java -jar server-release.jar`. The commands are explained in the `help` command.
 
